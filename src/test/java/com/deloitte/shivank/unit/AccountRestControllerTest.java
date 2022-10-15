@@ -1,4 +1,4 @@
-package com.example.paul.unit;
+package com.deloitte.shivank.unit;
 
 import com.deloitte.shivank.controllers.AccountRestController;
 import com.deloitte.shivank.models.Account;

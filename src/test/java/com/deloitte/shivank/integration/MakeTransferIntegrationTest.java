@@ -1,4 +1,4 @@
-package com.example.paul.integration;
+package com.deloitte.shivank.integration;
 
 import com.deloitte.shivank.controllers.TransactionRestController;
 import com.deloitte.shivank.utils.AccountInput;
